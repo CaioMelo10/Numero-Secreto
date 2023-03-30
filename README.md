@@ -7,13 +7,16 @@ ________________________________________________________________________________
 
 <h1>Tecnologias </h1>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-HTML 5
-CSS 3
-JS
-API ( SpeechRecognition ) :
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+ <li>
+        <ul>HTML 5</ul>
+        <ul>CSS 3</ul>
+        <ul>JS</ul>
+        <ul>API ( SpeechRecognition ) :
+            https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API</ul>
+    </li>
+
 
 _________________________________________________________________________________
 
